@@ -1,5 +1,4 @@
-# Name:Said Haroon Hashimi
-# Reg_No:B25F0435SE117
+
 # Student Management System (Python)
 
 ## Project Description
